@@ -1,7 +1,7 @@
 pipeline{
  environment {
         dockerUserName="victorialloyd"
-        credentialsIdGCP = "lbg-mea-leaders-c10"
+        credentialsIdGCP = "1a4654dc-af85-4649-a961-8bbe695118f7"
         namespace = "lbg-trainer"
         // e.g. lbg-1 for learner1, lbg-2 for learner2
         projectId= "lbg-mea-leaders-c10"
